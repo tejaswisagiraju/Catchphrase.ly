@@ -28,7 +28,7 @@ Reference lesson: [Single Page POST & DELETE](https://github.com/sf-wdi-18/notes
 ###User Stories
 **A User should be able to create a new phrase by submitting a form**
 
-* The DOM should update accordingly
+* The DOM should maintain state accordingly
 
 * The phrase should persist with a page refresh
 
