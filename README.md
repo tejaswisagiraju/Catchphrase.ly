@@ -5,7 +5,7 @@
 * We'll be building an app that emulates everyone's favorite game **Catchphrase**! You have until 5/18.
 	
 ##Day 1
-Reference lesson: [Underscore templating]
+Reference lesson: Underscore templating  **LINK TO LESSON NEEDED**
 
 ###User Stories
 **A User should see a list of existing `phrases` on the home page**
