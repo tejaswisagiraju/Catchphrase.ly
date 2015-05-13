@@ -1,8 +1,8 @@
 #CatchPhrase.ly
 
-Let's build an app to simulate our favorite game **Catchphrase**!
+Let's build an app for our favorite game **Catchphrase**!
 
-This assignment will span over several days. The suggested workflow for each day is outlined below. We will wrap up our work on this project by 5/18.
+This lab will span over the course of several days. The suggested workflow for each day is outlined below. We will wrap up our work on 5/18.
 	
 ##Day 1
 Reference lesson: Underscore templating  **LINK TO LESSON NEEDED**
