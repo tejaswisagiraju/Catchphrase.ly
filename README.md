@@ -1,8 +1,8 @@
 #CatchPhrase.ly
 
-##Goal
+Let's build an app to simulate our favorite game **Catchphrase**!
 
-* We'll be building an app that emulates everyone's favorite game **Catchphrase**! You have until 5/18.
+This assignment will span over several days. The suggested workflow for each day is outlined below. We will wrap up our work on this project by 5/18.
 	
 ##Day 1
 Reference lesson: Underscore templating  **LINK TO LESSON NEEDED**
