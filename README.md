@@ -5,7 +5,7 @@ Let's build an app for our favorite game **Catchphrase**!
 This lab will span over the course of several days. The suggested workflow for each day is outlined below. We will wrap up our work on 5/18.
 	
 ##Day 1
-Reference lesson: Underscore templating  **LINK TO LESSON NEEDED**
+Reference lesson: Underscore templating  **LINK TO LESSON**
 
 ###User Stories
 **A User should see a list of existing `phrases` on the home page**
